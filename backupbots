@@ -139,4 +139,3 @@ bot.catch((err) => {
 
 console.log("Bot started. Please keep this window running.");
 bot.start();
-
